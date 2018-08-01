@@ -1,0 +1,97 @@
+
+@media(max-width: 1225px){
+	.content .content-title1 p,.content .content-title2 p,.content .content-title3 p,.content .content-title4 p,.content .content-title5 p{
+		font-size: 24px;
+		padding-left: 5px;
+	}
+}
+@media(max-width: 1000px){
+	.content h2{
+		font-size: 30px;
+	}
+	body .bottom{
+		display: block;
+	}
+	html body{
+		font-size: 46px;
+	}
+	.evaluation .evaluation-box2 img{
+		margin-top: 30px;
+	}
+	.introduce h2{
+		font-size: 58px;
+	}
+	.content h2{
+		font-size: 58px;
+	}
+	.evaluation h2{
+		font-size: 58px;
+	}
+	.comments h2{
+		font-size: 58px;
+	}
+	body .layui-tab-title li {
+		font-size: 50px;
+	}
+	body .layui-tab-brief>.layui-tab-title .layui-this {
+		font-size: 50px;
+	}
+	 body .weixin img{
+		width: 300px;
+		height: 300px;
+	}
+	 body .layui-tab-title{
+		height: 100px;
+		line-height: 100px;
+	}
+	body .layui-tab-card>.layui-tab-title .layui-this {
+		line-height: 100px;
+		height: 100px;
+	}
+	body header{
+		height: 200px;
+	}
+	body header .title{
+		font-size: 38px;
+		width: 400px;
+		margin-top:  60px;
+	}
+	body header .come{
+		font-size: 34px;
+		width: 260px;
+		margin-top: 60px;
+	}
+	body header .come .date{
+		font-size: 30px;
+	}
+	body .evaluation-box2 img{
+		width: 700px;
+		height: 600px;
+	}
+	.section-user img{
+		width: 500px;
+		height: 600px;
+	}
+	body .section-img img{
+		height:500px;
+	}	
+	body .evaluation-box1 .title1::before,
+	body .evaluation-box1 .title2::before,
+	body .evaluation-box1 .title3::before,
+	body .evaluation-box1 .title4::before,
+	body .evaluation-box1 .title5::before
+	{
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+
+	}
+	.comments{
+		font-size:38px;
+	}
+	body .comments-img img{
+		width: 150px;
+		height: 150px;
+	}
+}
+
